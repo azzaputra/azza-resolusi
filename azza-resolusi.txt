@@ -8,4 +8,4 @@ Untuk awal
 - Belajar java
 - Belajar php dan javasript dan sql
 - Belajar android
-- Belajar dart
+- Belajar editing video
