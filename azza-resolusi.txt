@@ -1,4 +1,11 @@
 Azza resolusi
 - Konsisten untuk belajar tentang programming 
 - Membuat website website dan aplikasi aplikasi dalam memudahkan pekerjaan sehari hari dan memiliki nilai jual
-- 
+- Mencari pekerjaan yang sesuai dengan keahlian saya
+
+Untuk awal
+- Belajar git dan github
+- Belajar java
+- Belajar php dan javasript dan sql
+- Belajar android
+- Belajar dart
